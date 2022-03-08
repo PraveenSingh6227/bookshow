@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/movies_Details">About</router-link> |
     <router-link to="/movies">movies</router-link>
+    <router-link to="/TicketArrange">TicketArrange</router-link>
   </nav>
   <router-view/>
   <HelloWorld />

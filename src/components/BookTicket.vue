@@ -96,7 +96,295 @@
 				</div>
 			</div>
       </div>
+      <div class="filters-wrapper">
+    <div class="filters-container">
+        <div class="sticky-filtertitle">Gangubai Kathiawadi</div>
+        <div class="showtime-filters struktur ">
+            <div class="dates-wrapper " style="display: inline-block;">
+                <ul id="showDates" class="dates-container slick-initialized slick-slider"><button
+                        class="buttons prev slick-arrow slick-disabled" aria-label="Previous" role="button" href="#"
+                        aria-disabled="true" style="display: block;"><svg version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <use xlink:href="/icons/common-icons.svg#icon-go-back"></use>
+                        </svg></button>
+                    <div aria-live="polite" class="slick-list draggable">
+                        <div class="slick-track"
+                            style="opacity: 1; width: 15000px; transform: translate3d(-1px, 0px, 0px);display:flex">
+                            <li class="date-details _active slick-slide slick-current slick-active" data-slick-index="0"
+                                aria-hidden="false">
+                                <a class="date-href"
+                                    href="/buytickets/gangubai-kathiawadi-delhincr/movie-ncr-ET00114897-MT/today"
+                                    onclick="BMS.Misc.fnBusy(true);">
+                                    <div class="date-numeric">
+                                        08 </div>
+                                    <div class="date-day">
+                                        TODAY </div>
+                                </a>
+                            </li>
+                            <li class="date-details  slick-slide" data-slick-index="1" aria-hidden="true">
+                                <a class="date-href"
+                                    href="/buytickets/gangubai-kathiawadi-delhincr/movie-ncr-ET00114897-MT/tomorrow"
+                                    onclick="BMS.Misc.fnBusy(true);">
+                                    <div class="date-numeric">
+                                        09 </div>
+                                    <div class="date-day">
+                                        TOM </div>
+                                </a>
+                            </li>
+                            <li class="date-details  slick-slide" data-slick-index="2" aria-hidden="true">
+                                <a class="date-href"
+                                    href="/buytickets/gangubai-kathiawadi-delhincr/movie-ncr-ET00114897-MT/20220310"
+                                    onclick="BMS.Misc.fnBusy(true);">
+                                    <div class="date-numeric">
+                                        10 </div>
+                                    <div class="date-day">
+                                        THU </div>
+                                </a>
+                            </li>
+                        </div>
+                    </div>
+ <button class="buttons next slick-arrow" aria-label="Next" role="button" href="#"
+                        style="display: block;" aria-disabled="false"><svg version="1.1"
+                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                            y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+                            <use xlink:href="/icons/common-icons.svg#icon-next-arrow"></use>
+                        </svg></button>
+                </ul>
+            </div>
+            <div class="dropdown-block ">
+
+                <button class="btn _default __reset">RESET</button>
+                <button class="btn _tres __done">DONE</button>
+
+                <div class="dropdown highlighted _disabled">
+                    <div class="__text _languages-text _highlighted">Hindi - 2D</div>
+                    <i class="__icon icon-arrow-down " style="">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                            x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100"
+                            xml:space="preserve">
+                            <use xlink:href="/icons/common-icons.svg#icon-arrow-down-new"></use>
+                        </svg>
+                    </i>
+                    <ul class="__menu" id="filterLanguage" data-type="_highlighted languages">
+                        <li class="languages" data-value="Hindi-2D">
+                            <a href="/buytickets/gangubai-kathiawadi-delhincr/movie-ncr-ET00114897-MT/20220308">
+                                <label>Hindi - 2D</label>
+                                <div class="mini-loader">
+                                    <div class="mini"></div>
+                                    <div></div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+<div class="dropdown filter" data-type="subRegions">
+                    <div class="__text _prices-text" data-placeholder="Filter Sub Regions">Filter Sub Regions</div>
+                    <i class="__icon icon-arrow-down"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><use xlink:href="/icons/common-icons.svg#icon-arrow-down-new"></use></svg></i>
+                   </div>
+                   <div class="dropdown filter" data-type="subRegions">
+                    <div class="__text _prices-text" data-placeholder="Filter Sub Regions">Filter Price Range</div>
+                   </div>
+                   <div class="dropdown filter" data-type="subRegions">
+                    <div class="__text _prices-text" data-placeholder="Filter Sub Regions">Filter Show Timings</div>
+                   </div>
+<div class="showtimes-search">
+                <div class="__search">
+                    <span class="icon-search">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                            x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100"
+                            xml:space="preserve">
+                            <use xlink:href="/icons/common-icons.svg#icon-search"></use>
+                        </svg>
+                    </span>
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
       </div>
+        <div>
+            
+            </div>
+
+            <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>      
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+                 <div class="margin">
+                <div class="col-1">
+                    <div class="co-ul">
+                Cinepolis: DLF Avenue, Saket
+                 <ul>
+                    <li> M-Ticket</li>
+                     <li> M-Ticket</li>
+                </ul>
+                    </div>
+               
+
+                </div>
+                <div class="col-2">
+                <ul>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+<li><a href="#">4.25 PM</a></li>
+                </ul>
+
+                </div>
+                </div>
+
+  </div>
 </template>
 
 <script>
@@ -106,6 +394,109 @@ export default {
 }
 </script>
 <style>
+.col-2 ul li a{
+   color: #4abd5d;
+   font-size: 13px; 
+}
+.col-2 ul li {
+    float: left;
+    padding: 15px;
+    border: 1px solid #999;
+    color: #4abd5d;
+    padding: 4px;
+    border-radius: 4px;
+    width: 96px;
+    margin:5px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+.co-ul{
+padding: 34px 10px;
+    font-size: 13px;
+}
+.col-1 ul li {
+    float: left;
+    text-align: center;
+    padding: 5px 27px;
+    
+}
+.col-1 {
+    width:25%;
+    font-weight: 700;
+    color: #333;
+    float: left;
+    
+}
+.col-2{
+    width:65%;
+    display: flex;
+}
+.margin {
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid #eff1f3;
+    padding: 13px 20px;
+}
+.__icon {
+    position: absolute;
+    transition: .5s;
+    top: 20px;
+    right: 10px;
+    width: 10px;
+    height: 10px;
+}
+ .filters-container:before {
+    content: " ";
+    display: table;
+    line-height: 0;
+}
+.showtime-filters {
+    zoom: 1;
+    min-width: 320px;
+    max-width: 1280px;
+    margin: 0 auto;
+    position: relative;
+    padding: 1px 20px;
+}
+.dropdown .__icon svg {
+    fill: #858f9a;
+}
+.showtime-filters {
+    max-width: 1400px;
+    width: 100%;
+}
+.slick-list, .slick-slider .slick-track {
+    transform: translate3d(0,0,0);
+}
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: block;
+}
+.slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.movie-details {
+    position: relative;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    background: #333545;
+    color: #999;
+    z-index: 3;
+}
 .text-details h1 a {
     color: #f4f4f4;
     float: left;
@@ -148,6 +539,27 @@ export default {
     position: absolute;
     display: none;
     left: 48%;
+}
+.dropdown.highlighted {
+    box-shadow: inset 0 -3px 0 0 #f84464;
+}
+.dropdown.highlighted {
+    box-shadow: inset 0 -3px 0 0 #f84464;
+}
+.__text._highlighted {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+.dropdown-block {
+    zoom: 1;
+    float: right;
+    padding-right: 34px;
+    max-width: 80%;
+}
+
+.dropdown-block .btn {
+    display: none;
 }
 .__info {
     position: absolute;
@@ -334,5 +746,243 @@ export default {
     color: #fff;
     text-transform: uppercase;
     display: none;
+}
+ .filters-wrapper {
+    width: 100%;
+    border-bottom: 1px solid #dfe3e7;
+    background-color: #fff;
+}
+.filters-container {
+    zoom: 1;
+    z-index: 1;
+    margin-top: 0;
+    background: #fff;
+}
+ .sticky-filtertitle {
+    display: none;
+}
+.showtime-filters:not(._touch) {
+    max-width: 1400px;
+    width: 100%;
+}
+.dates-wrapper {
+    display: none;
+    height: 40px;
+    margin-top: 6px;
+    margin-left: 24px;
+    float: left;
+}
+.dates-container {
+    max-width: 360px;
+    height: 42px;
+}
+.slick-slider {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+ul {
+    list-style: none;
+}
+.prev {
+    position: absolute;
+    top: 0;
+    left: -40px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    background: 0 0;
+    border: none;
+    opacity: .5;
+}
+.slick-list, .slick-slider .slick-track {
+    transform: translate3d(0,0,0);
+}
+.slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: block;
+}
+.date-details {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    max-height: 42px;
+}
+ .date-href {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+}
+.date-numeric {
+    color: #fff;
+    font-weight: 500;
+}
+.date-numeric {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #333;
+}
+.date-numeric {
+    color: #fff;
+    font-weight: 500;
+}
+.date-details {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    max-height: 42px;
+}
+.date-href {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+}
+.date-numeric {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #333;
+}
+.date-day {
+    color: #666;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 14px;
+}
+.next {
+    position: absolute;
+    top: 0;
+    right: -40px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    background: 0 0;
+    border: none;
+    opacity: .5;
+}
+.dropdown-block:not(._touch) {
+   zoom: 1;
+    float: left;
+    display: flex;
+    padding-right: 34px;
+    max-width: 80%;
+}
+.dropdown {
+    position: relative;
+    float: left;
+    padding: 15px;
+    border-left: 1px solid #eceef1;
+    top: 0;
+}
+.buyticket-page .movie-details .filters-container .showtime-filters .dropdown-block:not(._touch):after, .buyticket-page .movie-details .filters-container .showtime-filters .dropdown-block:not(._touch):before {
+    content: " ";
+    display: table;
+    line-height: 0;
+}
+.btn {
+    text-align: center;
+    cursor: pointer;
+    padding: 15px 40px;
+    font-size: 12px;
+    border-radius: 8px;
+    outline: 0;
+    border: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+.btn._tres {
+    background: #f84464;
+    border-radius: 8px;
+    color: #fff;
+}
+.dropdown.highlighted {
+    box-shadow: inset 0 -3px 0 0 #f84464;
+    height: 20px;
+}
+.dropdown {
+    position: relative;
+    float: left;
+    padding: 15px;
+    height: 19px;
+    border: 1px solid #eceef1;
+    top: 0;
+}
+._highlighted {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+.__menu {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    outline: 0;
+    top: 100%;
+    left: -1px;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    min-width: 101.5%;
+    white-space: nowrap;
+    text-shadow: none;
+    color: #333;
+    text-align: left;
+    box-shadow: 0 2px 4px 0 rgb(39 41 43 / 15%);
+    border: 1px solid rgba(39,41,43,.15);
+    border-radius: 0 0 0.2857rem 0.2857rem;
+    transition: .5s;
+    z-index: 100;
+}
+.__menu li {
+    transition: .5s;
+    position: relative;
+}
+.__menu li.languages a {
+    color: #666;
+}
+ .__menu li.languages a label {
+    display: inline-block;
+    padding-left: 15px!important;
+}
+.__menu li label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px!important;
+}
+._languages-text {
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 4px;
+    color: #0e1422;
+    white-space: nowrap;
+    width: 8em;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 </style>
