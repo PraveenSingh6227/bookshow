@@ -61,7 +61,7 @@
 			</div>
 		</section>
         <div class="__seat-action btn-bar _centered _spaced" style="">
-					<a id="btmcntbook" href="javascript:;" onclick="fnPkgCl();" class="bar-btn _primary _small" style="display: flex;">Pay <span id="btnSTotal_reserve">Rs.236.00</span></a>
+					<router-link to="/Payment" id="btmcntbook" href="javascript:;" onclick="fnPkgCl();" class="bar-btn _primary _small" style="display: flex;">Pay <span id="btnSTotal_reserve">Rs.236.00</span></router-link>
 					<a id="subSeat" href="javascript:;" onclick="fnsubSetSeats();" class="bar-btn _primary _small" style="display:none;">Pay <span id="btnSTotal_reserve"></span></a>
 					<div class="text-unpaid _tooltip-top" id="btm-Un-SetaErrMsg">
 						<span class="__tip"></span>

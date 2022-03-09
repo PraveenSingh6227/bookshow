@@ -222,7 +222,7 @@
                 </div>
                 <div class="col-2">
                 <ul>
-<li><a href="#">4.25 PM</a></li>
+<li><router-link to="/TicketArrange">4.25 PM</router-link></li>
 <li><a href="#">4.25 PM</a></li>
 <li><a href="#">4.25 PM</a></li>
 <li><a href="#">4.25 PM</a></li>
